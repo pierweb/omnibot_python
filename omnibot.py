@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 from Adafruit_MCP230xx import MCP230XX_GPIO
-from Adafruit_MCP3008 
+from Adafruit_MCP3008
 import RPi.GPIO as GPIO, time, os
 
 
